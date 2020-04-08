@@ -1,5 +1,5 @@
 HOST = "localhost"
-USER = "root"
+USER = "<YOUR SQL USERNAME>"
 PASS = "<YOUR SQL PASSWORD HERE>"
 MYDB = "covid"
 
